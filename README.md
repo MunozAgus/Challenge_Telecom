@@ -14,7 +14,7 @@ Este proyecto busca comprender los factores que influyen en la tasa de evasión 
 - **TelecomX_Churn_Analysis_Agustin.ipynb**: Cuaderno principal con todo el análisis.
 - **TelecomX_Data.json**: Archivo de datos en formato JSON.
 - **TelecomX_diccionario.md**: Diccionario de datos con la descripción de las columnas.
-- **/TelecomX_Outputs/**: Carpeta que contiene los gráficos generados.
+- **Graficos**: Gráficos generados.
 
 ## 🚀 Instrucciones de Ejecución
 1. Abre el archivo `TelecomX_Churn_Analysis_Agustin.ipynb` en Google Colab.
